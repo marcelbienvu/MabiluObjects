@@ -1,0 +1,18 @@
+{
+    "lfo": {
+      "shape": 0.716797,
+      "rate": 0.254883,
+      "parameter": 0.989258
+    },
+    "clouds": {
+      "reverb": 0.59668,
+      "dry": 1.00293,
+      "feedback": 0.660156,
+      "position": 0.717773,
+      "size": 0.884766,
+      "texture": 0.451172,
+      "density": 0.901367,
+      "pitch": 1.933594,
+      "stereo_spread": 1.00293
+    }
+  }

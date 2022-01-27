@@ -1,0 +1,22 @@
+{
+    "osc": {
+      "frequency": 473.6328,
+      "modulation amplitude": 1.081055
+    },
+    "lfo": {
+      "shape": 0.666992,
+      "rate": 0.264648,
+      "parameter": 0.078125
+    },
+    "clouds": {
+      "reverb": 0.25,
+      "dry": 1,
+      "feedback": 1.000977,
+      "position": 0.391602,
+      "size": 0.19043,
+      "texture": 0.712891,
+      "density": 0.341797,
+      "pitch": 19.96094,
+      "stereo_spread": 0.998047
+    }
+  }

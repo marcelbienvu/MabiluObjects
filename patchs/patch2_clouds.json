@@ -1,0 +1,28 @@
+{
+    "cpu": {
+      "instant": 24.15895,
+      "max": 33.55526
+    },
+    "osc": {
+      "frequency": 304.6875,
+      "modulation amplitude": 1.086914
+    },
+    "lfo": {
+      "shape": 0.660156,
+      "rate": 0.234375,
+      "parameter": 0.695313
+    },
+    "clouds": {
+      "freeze": false,
+      "reverb": 0.521484,
+      "dry": 0.328125,
+      "feedback": 0.999023,
+      "position": 0.856445,
+      "size": 1,
+      "texture": 0.695313,
+      "density": 0.169922,
+      "pitch": -24.375,
+      "stereo_spread": 0.963867
+    }
+  }
+  

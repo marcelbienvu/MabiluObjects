@@ -1,0 +1,36 @@
+{
+    "vcf": {
+      "frequency": 492.1875,
+      "resonance": 0.648438
+    },
+    "osc": {
+      "engine": 2,
+      "note": 38,
+      "timbre": 0.654297,
+      "harmonics": 0.609375
+    },
+    "clouds": {
+      "morph": 0.905273
+    }
+  }
+
+  {
+    "cpu": {
+      "instant": 11.91452,
+      "max": 11.94793
+    },
+    "mem": 2,
+    "vcf": {
+      "frequency": 488.2813,
+      "resonance": 0.650391
+    },
+    "osc": {
+      "engine": 2,
+      "note": 38,
+      "timbre": 0.655273,
+      "harmonics": 0.608398
+    },
+    "clouds": {
+      "morph": 0.905273
+    }
+  }

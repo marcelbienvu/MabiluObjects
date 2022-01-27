@@ -1,0 +1,21 @@
+{
+  "name": "Mabilu Objects",
+  "keywords": "teensy, pjrc, audio, synthesis",
+  "description": "Teensy Audio wrappers classes for Mutable modules",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://gitlab.com/scoumoune/mabilu-objects"
+  },
+  "authors":
+  {
+    "name": "Marcel Bienvu",
+    "email": "",
+    "url": "https://gitlab.com/scoumoune",
+    "maintainer": true
+  },
+  "homepage": "https://gitlab.com/scoumoune/mabilu-objects",
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "Teensy"
+}
